@@ -11,6 +11,7 @@ A Program that detects Fraud Credit Card Transactions
 
 # How to use
 * Download this repository
+* Download creditcard.csv off of https://www.kaggle.com/mlg-ulb/creditcardfraud
 * Change directory to where the file is located
 * Run creditcardfrauddetection.py
 
