@@ -1,5 +1,5 @@
-# CreditFraudDetection
-A Program that detects Fraud Credit Card Transactions
+# Credit Card Transaction Fraud Detection
+A Program that detects Fraud Credit Card Transactions using CNN
 
 # Requirements
 * Tensorflow
